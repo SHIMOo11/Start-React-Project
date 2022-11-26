@@ -1,0 +1,25 @@
+.navbar{
+    background-color: #2c3e50;
+    padding: 1rem;
+}
+
+.navbar .aa{
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.navbar .aa:hover{
+    color: #1ABC9C;
+}
+.navbar-brand{
+    font-size: 1.7rem !important;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navinfo{
+    width: 70%;
+    margin: auto;
+}

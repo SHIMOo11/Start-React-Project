@@ -1,0 +1,23 @@
+.home {
+    background-color: #1abc9c;
+    height: 100vh;
+    font-family: 'Montserrat', sans-serif;
+}
+.home-info {
+    width: 60%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+}
+.home-info h1 {
+    text-transform: uppercase;
+    font-size: 4rem;
+    font-weight: 700;
+}
+.home-info h5 {
+    font-size: 1.5rem;
+    font-weight: 300;
+}
