@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Start-React-Project/static/css/main.4cfee190.css",
-    "main.js": "/Start-React-Project/static/js/main.7d02b93a.js",
+    "main.js": "/Start-React-Project/static/js/main.da6a5972.js",
     "static/js/787.f6b89c4d.chunk.js": "/Start-React-Project/static/js/787.f6b89c4d.chunk.js",
     "static/media/fa-solid-900.ttf": "/Start-React-Project/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
     "static/media/fa-brands-400.ttf": "/Start-React-Project/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
@@ -21,11 +21,11 @@
     "static/media/logo.svg": "/Start-React-Project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Start-React-Project/index.html",
     "main.4cfee190.css.map": "/Start-React-Project/static/css/main.4cfee190.css.map",
-    "main.7d02b93a.js.map": "/Start-React-Project/static/js/main.7d02b93a.js.map",
+    "main.da6a5972.js.map": "/Start-React-Project/static/js/main.da6a5972.js.map",
     "787.f6b89c4d.chunk.js.map": "/Start-React-Project/static/js/787.f6b89c4d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4cfee190.css",
-    "static/js/main.7d02b93a.js"
+    "static/js/main.da6a5972.js"
   ]
 }
