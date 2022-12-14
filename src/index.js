@@ -19,7 +19,7 @@ let Router=createBrowserRouter([
   {
     path:"/",
     element:<App/>,
-    errorElement :"Not Found....",
+    errorElement :<App/>,
     children:[
       {path:"/", element:<Home/>},
       {path:"home" , element:<Home/>},
